@@ -9,7 +9,7 @@ function writeCards(nameArray, giftType) {
   return messageArr;
 }
 
-function countdonw(number) {
+function countdown(number) {
   for (let i = number; i >= 0; i--) {
     console.log(i);
   }
