@@ -17,6 +17,6 @@ function writeCards(nameArray, giftType) {
 
 function countdown(number) {
   while (number >= 0) {
-    console.log(number --);
+    console.log(--number);
   }
 }
