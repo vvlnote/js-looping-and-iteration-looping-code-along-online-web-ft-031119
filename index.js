@@ -8,3 +8,9 @@ function writeCards(nameArray, giftType) {
   }
   return messageArr;
 }
+
+function countDdonw(number) {
+  for (let i = number; i >= 0; i--) {
+    console.log(i);
+  }
+}
